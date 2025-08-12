@@ -23618,3 +23618,4 @@
 {"reason":"No such key 'latitude' at path ''. No value associated with key CodingKeys(stringValue: \"latitude\", intValue: nil) (\"latitude\").","error":true}
 {"error":true,"reason":"Hourly API request limit exceeded. Please try again in the next hour."}
 {"reason":"No such key 'latitude' at path ''. No value associated with key CodingKeys(stringValue: \"latitude\", intValue: nil) (\"latitude\").","error":true}
+{"error":true,"reason":"No such key 'latitude' at path ''. No value associated with key CodingKeys(stringValue: \"latitude\", intValue: nil) (\"latitude\")."}
